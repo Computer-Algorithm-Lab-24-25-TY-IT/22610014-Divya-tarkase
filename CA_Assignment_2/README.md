@@ -4,7 +4,7 @@
 
 <br>
 
-<h3>The output of analysis.out</h3>
+<h3> output </h3>
 
 ![Matrix_multiplication_output](https://github.com/user-attachments/assets/c9d2cecb-0596-438e-8d1b-b5498b929c4e)
 
